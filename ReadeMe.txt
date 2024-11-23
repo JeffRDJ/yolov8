@@ -1,0 +1,10 @@
+使用yolov8实现对现有视频中的目标的检测，以及实现对象经过指定位置时进行计数
+
+object_counter.py  实现对对象计数
+
+process_video_to_frame.py 处理视频到每一帧
+
+yolo_detection_tracking.py 实现对目标的检测和跟踪
+
+此项目使用到的opencv 版本是 4.10.0.84
+此项目使用的ultralytics 版本为 8.2.70
